@@ -2,12 +2,10 @@ body {
     background-color: #bcdfe4;
     font-family: Arial, sans-serif;
     margin: 0;
-}
-
-.contenedor {
     width: 85%;
     margin: auto;
 }
+
 
 .encabezado {
     font-size: 30px;
@@ -79,21 +77,10 @@ body {
     color: #245b66;
 }
 
-.seccion1 h2{
+h2{
     color: #245b66;
 }
 
-.seccion2 h2{
-    color: #245b66;
-}
-
-.seccion3 h2 {
-    color: #245b66;
-}
-
-.seccion4 h2{
-    color: #245b66;
-}
 
 #foto-s2-izquierda {
     width: 300px;
@@ -107,9 +94,6 @@ body {
     margin: 10px;
 }
 
-.fuentes h2 {
-    color: #245b66;
-}
 
 #foto-derecha {
     width: 150px;
@@ -137,4 +121,3 @@ body {
 .bibliografia a {
     color: #245b66;
 }
-
